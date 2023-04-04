@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FileSize<br>🤝 I’m looking for help with<br>🌱 I’m currently improving my Python skills and also learning JavaScript & React<br>💬 Ask me about anything and everything!<br>⚡ Fun fact: I have been sky diving and bungee jumping
+🔭 I’m currently working on FileSize<br>🌱 I’m currently improving my Python skills and also learning JavaScript & React<br>💬 Ask me about anything and everything!<br>⚡ Fun fact: I have been sky diving and bungee jumping
 
 
 # 💻 Tech Stack:
